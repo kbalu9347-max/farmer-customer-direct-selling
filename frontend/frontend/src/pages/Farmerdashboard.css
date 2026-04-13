@@ -1,0 +1,58 @@
+.dashboard-container {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.profile-card {
+  background: #ffffff;
+  width: 350px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
+}
+
+.profile-card h3 {
+  margin-bottom: 10px;
+  color: green;
+}
+
+.profile-card p {
+  margin: 5px 0;
+}
+
+.dashboard-actions {
+  margin-top: 20px;
+}
+
+.dashboard-actions a {
+  margin: 10px;
+  padding: 10px 15px;
+  background: green;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.dashboard-actions a:hover {
+  background: darkgreen;
+}
+
+.profile-info {
+  text-align: left;
+  margin-top: 10px;
+}
+
+.dashboard-actions button {
+  margin: 10px;
+  padding: 10px 15px;
+  background: green;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.dashboard-actions button:hover {
+  background: darkgreen;
+}
