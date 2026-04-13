@@ -3,7 +3,7 @@ import "./cart.css";
 import tomato from "../assets/images/tomato.jpg";
 import carrot from "../assets/images/carrot.jpg";
 
-<<<<<<< HEAD
+
 function Cart() {
   return (
     <div className="cart-container">
@@ -67,14 +67,11 @@ function Cart() {
       </div>
     </div>
   );
-=======
 function Cart(){
   return(
     <div>
       <h1>Your Cart</h1>
     </div>
   )
->>>>>>> 5d7ef9b (frontend updates)
 }
-
 export default Cart;
